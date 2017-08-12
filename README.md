@@ -1,0 +1,1 @@
+A custom multiselect directive to use inside an ng-table
